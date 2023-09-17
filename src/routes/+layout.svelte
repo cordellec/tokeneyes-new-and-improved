@@ -24,13 +24,11 @@
 				<a class="btn btn-sm variant-ghost-primary" href="/" target="_blank" rel="noreferrer">
 					NFT'S
 				</a>
-				<a class="btn btn-sm variant-ghost-primary" href="/" target="_blank" rel="noreferrer">
-					MERCH
-				</a>
 				<a class="btn btn-sm variant-ghost-primary" href="/about" target="" rel="noreferrer">
 					ABOUT
 				</a>
-				<div class="hidden sm:block">
+				<div class="sm:flex items-center space-x-4">
+					<!-- Use flex and space-x to align items horizontally -->
 					<LightSwitch />
 				</div>
 			</svelte:fragment>
@@ -40,15 +38,14 @@
 	<slot />
 
 	<svelte:fragment slot="pageFooter">
-		<div class="flex items-center justify-center mb-4 space-x-4 sm:space-x-8 md:space-x-12 pt-4">
-			<!-- Add classes to center the images vertically and horizontally -->
+		<div class="flex items-center justify-center mb-4 space-x-8 md:space-x-12 pt-4">
 			<a
 				href="https://discord.com/invite/TwVywVhpfp"
 				target="_blank"
 				rel="noreferrer"
 				class="flex items-center justify-center"
 			>
-				<img src="../images/discord512px.png" alt="" class="w-15 h-10 sm:w-15 sm:h-10" />
+				<img src="../images/discordlogo.png" alt="" class="w-15 h-10" />
 			</a>
 
 			<a
@@ -57,7 +54,7 @@
 				rel="noreferrer"
 				class="flex items-center justify-center"
 			>
-				<img src="../images/twitter512px.png" alt="" class="w-10 h-6 sm:w-18 sm:h-10" />
+				<img src="../images/twitterlogo.png" alt="" class="w-15 h-10" />
 			</a>
 
 			<a
@@ -66,7 +63,7 @@
 				rel="noreferrer"
 				class="flex items-center justify-center"
 			>
-				<img src="../images/opensea512px.png" alt="" class="w-8 h-6 sm:w-12 sm:h-10" />
+				<img src="../images/opensealogo.png" alt="" class="w-15 h-10" />
 			</a>
 		</div>
 	</svelte:fragment>

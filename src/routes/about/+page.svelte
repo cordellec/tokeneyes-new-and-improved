@@ -48,12 +48,13 @@
 		<p class="max-w-2xl text-center lg:text-left">
 			<!-- Add lg:text-left here -->
 			Tokeneyes was created to be accessible and cherished by everyone, not limited to being just an
-			NFT project. With options including shirts and prints to display on your walls, you can choose
-			how to enjoy Tokeneyes in a way that suits you.
+			NFT project. With options including shirts and prints to wear oor display on your walls, you can
+			choose how to enjoy Tokeneyes in a way that suits you.
 			<br /><br />
-			Whether you have a preferred cryptocurrency or not, owning a Tokeneyes piece is still possible.
-			Cordelle, the creator, is open to suggestions for future Tokeneyes pieces, so don't hesitate to
-			let him know if you have any ideas for bringing your favorite crypto to life.
+			Whether or not you have a preferred cryptocurrency, finding a piece you love is a breeze because
+			each one brings a distinct personality. Cordelle, the creator, is open to suggestions for future
+			Tokeneyes pieces, so don't hesitate to let him know if you have any ideas for bringing your favorite
+			crypto to life.
 		</p>
 	</div>
 </div>
