@@ -48,7 +48,7 @@
 		<p class="max-w-2xl text-center lg:text-left">
 			<!-- Add lg:text-left here -->
 			Tokeneyes was created to be accessible and cherished by everyone, not limited to being just an
-			NFT project. With options including shirts and prints to wear oor display on your walls, you can
+			NFT project. With options including shirts and prints to wear or display on your walls, you can
 			choose how to enjoy Tokeneyes in a way that suits you.
 			<br /><br />
 			Whether or not you have a preferred cryptocurrency, finding a piece you love is a breeze because
