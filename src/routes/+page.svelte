@@ -4,16 +4,18 @@
 	}
 </script>
 
-<div class="grid grid-cols-2gap">
-	<div class="col-start-1 flex flex-col justify-center items-center">
-		<img src="../images/baselogo.png" alt="Skeleton Logo" class="w-56 mt-16" />
-	</div>
-	<div class="col-start-2 flex flex-col justify-center">
-		<h2 class="max-w-6xl whitespace-wrap mr-6" id="nonherosection">
-			AN EXCLUSIVE BASE CHAIN PROJECT
-		</h2>
-	</div>
+<!--
+<div class="grid grid-cols-2 gap">
+    <div class="col-start-1 flex flex-col justify-center items-center">
+        <img src="../images/baselogo.png" alt="Skeleton Logo" class="w-56 mt-16" />
+    </div>
+    <div class="col-start-2 flex flex-col justify-center">
+        <h2 class="max-w-6xl whitespace-wrap mr-6" id="nonherosection">
+            AN EXCLUSIVE BASE CHAIN PROJECT
+        </h2>
+    </div>
 </div>
+-->
 
 <div class="text-center mt-36">
 	<h1 class="custom-font text-4xl">CURRENTLY MINTING</h1>
