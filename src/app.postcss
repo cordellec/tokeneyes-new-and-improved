@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+html,
+body {
+	@apply h-full overflow-hidden;
+}
+
+@font-face {
+	font-family: 'CustomFont'; /* The name you want to give to your font */
+	src: url('/fonts/grandstander-clean.ttf') format('ttf'); /* Adjust the path to your font file */
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* You can define multiple @font-face rules for different fonts here */
+
+/* Optionally, apply the font to a class or selector */
+.custom-font {
+	font-family: 'CustomFont', sans-serif; /* Use the font-family name you defined above */
+}
