@@ -7,6 +7,7 @@
 	import { storePopup } from '@skeletonlabs/skeleton';
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
 	import { LightSwitch } from '@skeletonlabs/skeleton';
+	import '../app.postcss';
 </script>
 
 <!-- App Shell -->
@@ -16,32 +17,17 @@
 
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<a href="/" class="text-xl uppercase custom-font">TOKENEYES LABS</a>
+				<a href="/" class="text-xl uppercase">TOKENEYES LABS</a>
 			</svelte:fragment>
 
 			<svelte:fragment slot="trail">
-				<a
-					class="btn btn-sm variant-ghost-primary custom-font"
-					href="/"
-					target="_blank"
-					rel="noreferrer"
-				>
+				<a class="btn btn-sm variant-ghost-primary" href="/" target="_blank" rel="noreferrer">
 					NFT'S
 				</a>
-				<a
-					class="btn btn-sm variant-ghost-primary custom-font"
-					href="/"
-					target="_blank"
-					rel="noreferrer"
-				>
+				<a class="btn btn-sm variant-ghost-primary" href="/" target="_blank" rel="noreferrer">
 					MERCH
 				</a>
-				<a
-					class="btn btn-sm variant-ghost-primary custom-font"
-					href="/about"
-					target=""
-					rel="noreferrer"
-				>
+				<a class="btn btn-sm variant-ghost-primary" href="/about" target="" rel="noreferrer">
 					ABOUT
 				</a>
 				<div class="hidden sm:block">
