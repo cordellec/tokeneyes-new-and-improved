@@ -40,7 +40,7 @@
 	<slot />
 
 	<svelte:fragment slot="pageFooter">
-		<div class="flex items-center justify-center mb-4 space-x-4 sm:space-x-8 md:space-x-12">
+		<div class="flex items-center justify-center mb-4 space-x-4 sm:space-x-8 md:space-x-12 pt-4">
 			<!-- Add classes to center the images vertically and horizontally -->
 			<a
 				href="https://discord.com/invite/TwVywVhpfp"
