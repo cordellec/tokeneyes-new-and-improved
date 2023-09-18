@@ -9,6 +9,14 @@ body {
 }
 
 @font-face {
-	font-family: 'boldfredoka';
-	src: url('/fonts/boldfredoka.ttf');
+	/* Reference name */
+	font-family: 'fredoka';
+	/* For multiple files use commas, ex: url(), url(), ... */
+	src: url('/fonts/fredokaone.ttf');
+}
+
+:root [data-theme='wintry'] {
+	--theme-font-family-base: 'fredoka', sans-serif;
+	--theme-font-family-heading: 'fredoka', sans-serif;
+	/* ... */
 }

@@ -7,7 +7,6 @@
 	import { storePopup } from '@skeletonlabs/skeleton';
 	storePopup.set({ computePosition, autoUpdate, flip, shift, offset, arrow });
 	import { LightSwitch } from '@skeletonlabs/skeleton';
-	import '../app.postcss';
 </script>
 
 <!-- App Shell -->
@@ -21,9 +20,7 @@
 			</svelte:fragment>
 
 			<svelte:fragment slot="trail">
-				<a class="btn btn-sm variant-ghost-primary" href="/" target="_blank" rel="noreferrer">
-					NFT'S
-				</a>
+				<a class="btn btn-sm variant-ghost-primary" href="/" target="/" rel="noreferrer"> NFT'S </a>
 				<a class="btn btn-sm variant-ghost-primary" href="/about" target="" rel="noreferrer">
 					ABOUT
 				</a>
