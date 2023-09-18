@@ -20,7 +20,7 @@
 			</svelte:fragment>
 
 			<svelte:fragment slot="trail">
-				<a class="btn btn-sm variant-ghost-primary" href="/" target="/" rel="noreferrer"> NFT'S </a>
+				<a class="btn btn-sm variant-ghost-primary" href="/" target="" rel="noreferrer"> NFT'S </a>
 				<a class="btn btn-sm variant-ghost-primary" href="/about" target="" rel="noreferrer">
 					ABOUT
 				</a>

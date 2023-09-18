@@ -19,7 +19,7 @@
 
 <div class="text-center mt-20">
 	<h1 class="custom-font text-4xl m-4">
-		CURRENTLY MINTING ONLY ON
+		MINTING ONLY ON
 		<a href="https://mint.fun/base/0x73b5c232849357aEDFf73FEE362167ecC19Cc46b">
 			<img src="../images/baselogo.png" class="w-12 h-12 inline-block ml-2" alt="Logo" />
 		</a>
