@@ -35,7 +35,7 @@
 	<slot />
 
 	<svelte:fragment slot="pageFooter">
-		<div class="flex items-center justify-center mb-4 space-x-8 md:space-x-12 pt-4">
+		<div class="flex items-center justify-center mb-4 space-x-8 md:space-x-12 pt-2">
 			<a
 				href="https://discord.com/invite/TwVywVhpfp"
 				target="_blank"
